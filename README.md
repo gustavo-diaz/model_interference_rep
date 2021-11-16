@@ -2,7 +2,7 @@
 
 This repository contains materials to reproduce results in the titled paper.
 
-See readme.pdf for a copy of these instructions.
+See [README.pdf](https://github.com/gustavo-diaz/model_interference_rep/blob/main/README.pdf) for a copy of these instructions.
 
 Visit https://gustavodiaz.org/files/research/dle_test.pdf for paper.
 
